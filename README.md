@@ -10,4 +10,4 @@ In this game, the player is in a land full of dragons. The dragons all live in c
 
 run the dragon.py on your favorite code editor or from the terminal with:
 
-'''python dragon.py'''
+`python dragon.py`
